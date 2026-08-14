@@ -1,0 +1,6 @@
+https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#
+
+All apps--> search the App name you want.
+
+go Implemenntation Info and select current version of s/4 hana 2020->Configuration.
+Add Catalog and Group on Role in GUI and Activate and add user id and Save it will show in Fiori Screen
